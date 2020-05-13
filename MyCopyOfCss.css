@@ -10,9 +10,8 @@ a img {
   width: 50px;
 }
 
-.brett1 {
-  margin-bottom: 50px;
-}
+#fields {
+  display:flex;
+  width: 80%;
   
-
-
+}
